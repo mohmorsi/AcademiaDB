@@ -13,6 +13,7 @@ AcademiaDB streamlines university administration by automating student record ma
 * [Introduction](#introduction) 
 * [Objective](#objective)
 * [Demo](#demo)
+* [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -31,6 +32,20 @@ The objective of AcademiaDB is to provide universities with a comprehensive, aut
 5. Minimize administrative workload and free up valuable time for administrators, enabling them to focus on other critical tasks.
 
 With AcademiaDB, universities can expect a flexible and efficient student database management system that can help them achieve their administrative and academic goals while providing the best possible education to their students.
+
+
+## Usage
+
+AcademiaDB is used to create a student database in PostgreSQL. 
+It creates tables for students, attendance, marks, fees, and scholarships.
+1. The students table contains information about each student, including their name, contact information, admission year, and course of study. 
+2. The attendance table tracks attendance for each student, with the date and attendance status. 
+3. The marks table contains information about each student's marks or grades in different subjects. 
+4. The fees table contains information about fees paid by each student. 
+5. The scholarships table contains information about scholarships received by each student, including the scholarship name, amount, and start and end dates. 
+
+The script first inserts 10 sample entries into the students table, and some sample entries into the attendance table.
+
 
 ## Demo
 
