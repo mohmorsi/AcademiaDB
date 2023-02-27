@@ -12,7 +12,6 @@ AcademiaDB streamlines university administration by automating student record ma
 ## Table of Contents
 * [Introduction](#introduction) 
 * [Objective](#objective)
-* [Demo](#demo)
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
@@ -45,10 +44,6 @@ It creates tables for students, attendance, marks, fees, and scholarships.
 5. The scholarships table contains information about scholarships received by each student, including the scholarship name, amount, and start and end dates. 
 
 The script first inserts 10 sample entries into the students table, and some sample entries into the attendance table.
-
-
-## Demo
-
 
 ## License
 GPL-3.0 License
